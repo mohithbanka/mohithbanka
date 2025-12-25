@@ -8,31 +8,31 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate Computer Science student specializing in **AI & Machine Learning**, with strong hands-on experience in **full-stack web development** and **real-world problem solving**.
+I’m a passionate Computer Science student specializing in **AI & Machine Learning**, with strong hands-on experience in **full-stack web development** and **problem solving**.
 
-I enjoy building **scalable, production-ready applications** and working across the complete development lifecycle — from designing backend APIs to deploying full-stack solutions. I also have a strong foundation in **Data Structures & Algorithms**, having solved **500+ problems on LeetCode**.
+I build **scalable, production-ready applications** using modern technologies and enjoy working across the full development lifecycle — from backend API design to deployment. I also have a strong foundation in **Data Structures & Algorithms**, having solved **500+ problems on LeetCode**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Programming Languages**  
-- C, C++, Python, JavaScript, SQL  
+C • C++ • Python • JavaScript • SQL  
 
 **Web Development**  
-- React.js, Node.js, Express.js, HTML, CSS  
+React.js • Node.js • Express.js • HTML • CSS  
 
 **Databases**  
-- MongoDB, MySQL  
+MongoDB • MySQL  
 
 **Machine Learning**  
-- Scikit-learn, PyTorch, Pandas, NumPy  
+Scikit-learn • PyTorch • Pandas • NumPy  
 
 **Tools & Platforms**  
-- Git, GitHub, Vercel, VS Code  
+Git • GitHub • Vercel • VS Code  
 
 **Core Concepts**  
-- OOP, DBMS, REST APIs, Agile Development, DSA  
+OOP • DBMS • REST APIs • Agile • DSA  
 
 ---
 
@@ -40,22 +40,22 @@ I enjoy building **scalable, production-ready applications** and working across 
 
 ### 🔹 Online Auction Platform
 **Tech:** React.js, Node.js, MongoDB, JavaScript  
-- Developed a full-stack web application enabling real-time auctions between buyers and sellers  
+- Built a full-stack auction platform enabling real-time bidding  
 - Implemented wallet-based bidding, REST APIs, and live notifications  
 - Deployed on Vercel with CI/CD for scalable cloud deployment  
 
-🔗 GitHub: [https://github.com/mohithbanka/Online-Auction-Platform]  
-🌐 Live Demo: [https://nexora-ecru.vercel.app/]
+🔗 GitHub: https://github.com/mohithbanka/Online-Auction-Platform  
+🌐 Live Demo: https://nexora-ecru.vercel.app/
 
 ---
 
 ### 🔹 Weather-Based Crop Recommendation System
 **Tech:** Python, Scikit-learn, PyTorch, Flask  
-- Built an ML-powered system predicting **22 crops** using soil and weather parameters  
-- Trained **Random Forest (92% accuracy)** and **LSTM (90% accuracy)** models  
+- Developed an ML-powered system predicting **22 crops**  
+- Trained **Random Forest (92%)** and **LSTM (90%)** models  
 - Deployed Flask REST API with Streamlit frontend  
 
-🔗 GitHub: [https://github.com/mohithbanka/Weather-Based-Crop-Recommendation-System]
+🔗 GitHub: https://github.com/mohithbanka/Weather-Based-Crop-Recommendation-System  
 
 ---
 
@@ -64,30 +64,38 @@ I enjoy building **scalable, production-ready applications** and working across 
 ### Salesforce Developer Intern (Virtual)  
 **SmartInternz | Nov 2024 – Jan 2025**
 - Customized Salesforce CRM using **Apex, SOQL, Lightning Web Components**  
-- Developed a CRM application to automate institutional service management  
-- Improved workflow efficiency through automation and validation rules  
+- Built a CRM application to automate institutional service workflows  
+- Improved efficiency using automation and validation rules  
 
 ---
 
 ## 🏆 Achievements
 - Solved **500+ DSA problems** on LeetCode  
-- Pursuing **Honors Specialization in Full Stack Development**  
-- Strong academic performance with **CGPA: 9.0 / 10**
+- Honors Specialization in **Full Stack Development**  
+- **CGPA: 9.0 / 10**
 
 ---
 
 ## 📜 Certifications
 - AI-ML Virtual Internship – Google (AICTE)  
-- CCNA: Introduction to Networks – Cisco Networking Academy  
+- CCNA: Introduction to Networks – Cisco  
 - Ethical Hacking – NPTEL  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithbanka&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithbanka&theme=react&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 - 📧 Email: **mohithbanka285@gmail.com**  
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohith-banka/]  
-- 🧑‍💻 GitHub: https://github.com/mohithbanka  
-- 🧠 LeetCode: [https://leetcode.com/u/mohith__295]
+- 💼 LinkedIn: https://www.linkedin.com/in/mohith-banka/  
+- 🧠 LeetCode: https://leetcode.com/u/mohith__295  
 
 ---
 
